@@ -10,6 +10,6 @@ Opciones:
 
   Ejemplo:
 
-  node app -b 10 -l -h  (Para ejecutar la tabla de multiplicar del 10)
+  node app -b 10 -l -h 10  (Para ejecutar la tabla de multiplicar del 10)
 
 ```
